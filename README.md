@@ -4,11 +4,13 @@
 I am a full-time computer science student at __Old Dominion University__ <br>
 
 I like: <br>
-- Problem solving <br>
-- Crafting <br>
-- Watching crime shows <br>
+- 🧠 Problem solving <br>
+- ✂ Crafting <br>
+- 📺 Watching crime shows <br>
 
-I'm currently learning:
+I'm currently learning more about:
+- Java
+- C+
 
 
 
