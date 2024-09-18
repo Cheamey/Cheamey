@@ -1,11 +1,11 @@
 ## Hello everyone 👋
 I'm Cheamey Yang <br>
 
-*Currently: BS CS student at Old Dominion University <br>
+- Currently: BS CS student at Old Dominion University <br>
 I like: <br>
--Problem solving <br>
--Crafting <br>
--Watching crime shows <br>
+- Problem solving <br>
+- Crafting <br>
+- Watching crime shows <br>
 
 
 
