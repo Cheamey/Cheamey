@@ -1,10 +1,13 @@
 ## Hello everyone 👋
-## I'm Cheamey Yang 
+I'm Cheamey Yang <br>
 
-I am a computer science student at ✨✨ODU✨✨ <br>
-I like problem solving, crafting, and watching crime shows.
+*Currently: BS CS student at Old Dominion University <br>
+I like: <br>
+*Problem solving
+*Crafting
+*Watching crime shows.
 
-I am currently learning 
+
 
 <!--
 **Cheamey/Cheamey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
