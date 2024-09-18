@@ -11,13 +11,13 @@ I am passionate about:
 - 🤝 Helping others
 - Making a difference
 
-I'm currently learning more about:
+I'm currently learning:
 - 🖥 Java
 - 🖥 C+
 - 🖥 Rust
 
 Connect with me: <br>
-https://www.linkedin.com/in/cheamey-yang-5ba264310/
+🔗 https://www.linkedin.com/in/cheamey-yang-5ba264310/
 
 <!--
 **Cheamey/Cheamey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
