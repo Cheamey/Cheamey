@@ -1,6 +1,6 @@
 ## Hello, I'm Cheamey 👋 <br>
 
-I am a full-time computer science student at ✨ __Old Dominion University__ ✨ <br>
+I am a computer science student at ✨ __Old Dominion University__ ✨ <br>
 
 I like: <br>
 - 🧠 Problem solving <br>
@@ -10,10 +10,10 @@ I like: <br>
 I'm currently learning more about:
 - 🖥 Java
 - 🖥 C+
+- 🖥 Rust
 
-
-
-
+Connect with me: <br>
+[Link text] (https://www.linkedin.com/in/cheamey-yang-5ba264310/)
 
 <!--
 **Cheamey/Cheamey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
