@@ -1,6 +1,6 @@
 ## Hello, I'm Cheamey 👋 <br>
 
-I am a full-time computer science student at ✨__Old Dominion University__✨ <br>
+I am a full-time computer science student at ✨ __Old Dominion University__ ✨ <br>
 
 I like: <br>
 - 🧠 Problem solving <br>
