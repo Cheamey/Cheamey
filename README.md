@@ -1,5 +1,4 @@
-## Hello everyone, 
-## I'm Cheamey Yang 👋 <br>
+## Hello, I'm Cheamey 👋 <br>
 
 I am a full-time computer science student at __Old Dominion University__ <br>
 
