@@ -13,7 +13,7 @@ I'm currently learning more about:
 - 🖥 Rust
 
 Connect with me: <br>
-[Link text] (https://www.linkedin.com/in/cheamey-yang-5ba264310/)
+(https://www.linkedin.com/in/cheamey-yang-5ba264310/)
 
 <!--
 **Cheamey/Cheamey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
