@@ -1,7 +1,7 @@
 ## Hello everyone 👋
 ## I'm Cheamey Yang 
 
-I am a computer science student at ✨✨ODU✨✨ 
+I am a computer science student at ✨✨ODU✨✨ <br>
 I like problem solving, crafting, and watching crime shows.
 
 I am currently learning 
