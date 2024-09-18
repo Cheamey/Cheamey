@@ -9,8 +9,8 @@ I like: <br>
 - 📺 Watching crime shows <br>
 
 I'm currently learning more about:
-- Java
-- C+
+- 🖥 Java
+- 🖥 C+
 
 
 
