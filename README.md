@@ -9,9 +9,9 @@ I like: <br>
 
 I am passionate about:
 - 🤝 Helping others
-- Making a difference
+- 🌍 Making a difference
 
-I'm currently learning:
+I am currently learning:
 - 🖥 Java
 - 🖥 C+
 - 🖥 Rust
