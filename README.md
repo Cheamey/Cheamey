@@ -1,7 +1,7 @@
 ## Hello everyone, 
 ## I'm Cheamey Yang 👋 <br>
 
-I am a full-time computer science student at _Old Dominion University_ <br>
+I am a full-time computer science student at __Old Dominion University__ <br>
 
 I like: <br>
 - Problem solving <br>
