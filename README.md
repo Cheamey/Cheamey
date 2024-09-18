@@ -1,11 +1,15 @@
 ## Hello, I'm Cheamey 👋 <br>
 
-I am a computer science student at ✨ __Old Dominion University__ ✨ <br>
+I am a computer science student at ✨ __Old Dominion University__ ✨ aspiring to become a 📈 __Data Scientist__ 📈 <br>
 
 I like: <br>
 - 🧠 Problem solving <br>
 - ✂ Crafting <br>
 - 📺 Watching crime shows <br>
+
+I am passionate about:
+- 🤝 Helping others
+- Making a difference
 
 I'm currently learning more about:
 - 🖥 Java
