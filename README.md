@@ -1,12 +1,16 @@
-## Hello everyone 👋
-I'm Cheamey Yang <br>
+## Hello everyone, 
+## I'm Cheamey Yang 👋 <br>
 
-- Currently: BS CS student at Old Dominion University <br>
+I am a full-time computer science student at _Old Dominion University_ <br>
 
 I like: <br>
 - Problem solving <br>
 - Crafting <br>
 - Watching crime shows <br>
+
+I'm currently learning:
+
+
 
 
 
